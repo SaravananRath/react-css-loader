@@ -1,2 +1,2 @@
 # react-css-loader
-Spinner for React in Pure CSS
+Loader for React in Pure CSS
