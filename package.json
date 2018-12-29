@@ -1,0 +1,20 @@
+{
+  "name": "react-css-loader",
+  "version": "1.0.0",
+  "description": "Loader for React in Pure CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaravananRath/react-css-loader.git"
+  },
+  "keywords": ["react","css","loader","spinner"],
+  "author": "Saravanan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaravananRath/react-css-loader/issues"
+  },
+  "homepage": "https://github.com/SaravananRath/react-css-loader#readme"
+}
